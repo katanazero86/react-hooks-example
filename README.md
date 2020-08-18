@@ -22,4 +22,8 @@ cd react-hooks
 npm i
 npm run start
 
+cd another-hooks
+npm i
+npm run start
+
 ```

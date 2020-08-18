@@ -10,18 +10,22 @@
 
 ## 실행법
 ```
+// context api & useContext
 cd context-api-example
 npm i
 npm run start
 
+// useCallback & useMemo
 cd memoization-hook
 npm i
 npm run start
 
+// useState & useRef & useEffect & customHook
 cd react-hooks
 npm i
 npm run start
 
+// useReducer & useImperativeHandle & useLayoutEffect
 cd another-hooks
 npm i
 npm run start

@@ -28,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../context-api-example" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -79,10 +80,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="공부했던 예제코드 저장소에 commit &amp; push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="760" y="174" key="CommitChangelistDialog2" timestamp="1597737379141">
+    <state x="760" y="174" key="CommitChangelistDialog2" timestamp="1597737698613">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="760" y="174" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597737379141" />
+    <state x="760" y="174" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597737698613" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1597736162029">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

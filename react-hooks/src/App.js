@@ -27,9 +27,9 @@ export default function App() {
     }
 
     useEffect(()=>{
-        console.log(`useEffect`);
         function onClick(){
             // count 상태값을 2번 증가시키려고 한다.
+            // batch 로 처리되지 않기 때문에, `render app component..` 2번 출력되는걸 확인이 가능하다.
             console.log(`onClick call.. & count : ${count}`);
             setCount(count+1);
             setCount(count+1);
@@ -37,7 +37,8 @@ export default function App() {
         }
         // 이벤트 등록 및 처리 함수를 등록
         document.getElementById('target-click').addEventListener('click', onClick);
-    },[]);
+        return () => document.getElementById('target-click').removeEventListener('click', onClick);
+    },);
 
     console.log(`render app component..`);
 
@@ -52,7 +53,7 @@ export default function App() {
                     {count}<br/>
                     <button onClick={()=> setCount(count + 1)}>1씩 값 증가</button>
                     <button onClick={incrementCount}>2씩 값 증가(배치)</button>
-                    <button id="target-click">외부에서 값 증가 이벤트 처리</button>
+                    <button id="target-click">외부에서 값 증가 이벤트 처리(상태값 변경이 배치로 처리 되지 않음!)</button>
                     <hr/>
                     {count2}<br/>
                     <button onClick={incrementCount2}>2씩 값 증가</button>

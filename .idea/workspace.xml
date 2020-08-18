@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad849c22-c47b-4958-ab0b-1145205c8e97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ad849c22-c47b-4958-ab0b-1145205c8e97" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,7 @@
       <updated>1597735777794</updated>
       <workItem from="1597735779980" duration="2298000" />
       <workItem from="1597738173116" duration="4377000" />
-      <workItem from="1597766982487" duration="785000" />
+      <workItem from="1597766982487" duration="872000" />
     </task>
     <task id="LOCAL-00001" summary="첫커밋">
       <created>1597735947015</created>
@@ -109,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597767034409</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="useReducer, useImperativeHandle, useLayoutEffect&#10;예제 훅을 사용한 코드 추가">
+      <created>1597767837864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597767837864</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,18 +127,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="useReducer, useImperativeHandle, useLayoutEffect&#10;예제 훅을 사용한 코드 추가" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="489" y="174" key="CommitChangelistDialog2" timestamp="1597767034012">
+    <state x="489" y="174" key="CommitChangelistDialog2" timestamp="1597767837517">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="489" y="174" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597767034012" />
+    <state x="489" y="174" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597767837517" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1597736162029">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1597736162029" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1597767036004">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1597767838647">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1597767036004" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1597767838647" />
     <state x="764" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597739234488">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -143,5 +147,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="653" y="256" width="613" height="538" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1597741279109" />
+    <state x="638" y="316" key="git4idea.merge.GitPullDialog" timestamp="1597768063668">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="638" y="316" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1597768063668" />
   </component>
 </project>

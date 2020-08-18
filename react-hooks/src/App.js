@@ -10,6 +10,7 @@ export default function App() {
     const mounted = useMounted();
     const [name, age] = useHook();
     const [count, setCount] = useState(0);
+    const [count2, setCount2] = useState(100);
     const [state, setState] = useState({name:'zz', age : 'xxx'});
 
 
@@ -21,8 +22,8 @@ export default function App() {
 
     function incrementCount2() {
         // incrementCount() 의 문제를 아래와 같이 해결이 가능
-        setCount(prevState => prevState + 1);
-        setCount(prevState => prevState + 1);
+        setCount2(prevState => prevState + 1);
+        setCount2(prevState => prevState + 1);
     }
 
     useEffect(()=>{
@@ -32,9 +33,10 @@ export default function App() {
             console.log(`onClick call.. & count : ${count}`);
             setCount(count+1);
             setCount(count+1);
+            // setCount(prevState => prevState +1);
         }
         // 이벤트 등록 및 처리 함수를 등록
-        document.body.addEventListener('click', onClick);
+        document.getElementById('target-click').addEventListener('click', onClick);
     },[]);
 
     console.log(`render app component..`);
@@ -48,9 +50,12 @@ export default function App() {
                 </p>
                 <p>
                     {count}<br/>
-                    <button onClick={()=> setCount(count + 1)}>값 증가</button>
-                    <button onClick={incrementCount}>값 증가(배치)</button>
-                    <button onClick={incrementCount2}>값 증가</button>
+                    <button onClick={()=> setCount(count + 1)}>1씩 값 증가</button>
+                    <button onClick={incrementCount}>2씩 값 증가(배치)</button>
+                    <button id="target-click">외부에서 값 증가 이벤트 처리</button>
+                    <hr/>
+                    {count2}<br/>
+                    <button onClick={incrementCount2}>2씩 값 증가</button>
                 </p>
             </div>
             <div>

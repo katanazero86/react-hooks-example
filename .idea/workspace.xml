@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad849c22-c47b-4958-ab0b-1145205c8e97" name="Default Changelist" comment="첫커밋" />
+    <list default="true" id="ad849c22-c47b-4958-ab0b-1145205c8e97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/context-api-example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/components/Child.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/components/Child2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/components/Child3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/components/Child4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context-api-example/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/src/components/UserInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/src/components/UserInfo2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memoization-hook/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597735777794</updated>
-      <workItem from="1597735779980" duration="1808000" />
+      <workItem from="1597735779980" duration="2298000" />
     </task>
     <task id="LOCAL-00001" summary="첫커밋">
       <created>1597735947015</created>
@@ -75,15 +112,15 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="첫커밋" />
     <MESSAGE value="공부했던 예제코드 저장소에 commit &amp; push" />
-    <option name="LAST_COMMIT_MESSAGE" value="공부했던 예제코드 저장소에 commit &amp; push" />
+    <MESSAGE value="첫커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="첫커밋" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="760" y="174" key="CommitChangelistDialog2" timestamp="1597737698613">
+    <state x="760" y="174" key="CommitChangelistDialog2" timestamp="1597737786397">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="760" y="174" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597737698613" />
+    <state x="760" y="174" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597737786397" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1597736162029">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

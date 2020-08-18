@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597735777794</updated>
       <workItem from="1597735779980" duration="2298000" />
-      <workItem from="1597738173116" duration="2053000" />
+      <workItem from="1597738173116" duration="4377000" />
     </task>
     <task id="LOCAL-00001" summary="첫커밋">
       <created>1597735947015</created>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597739700562</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="예제코드 수정">
+      <created>1597740463420</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597740463420</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,21 +112,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="예제코드 수정" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="760" y="174" key="CommitChangelistDialog2" timestamp="1597739699984">
+    <state x="760" y="174" key="CommitChangelistDialog2" timestamp="1597740462902">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="760" y="174" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597739699984" />
+    <state x="760" y="174" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597740462902" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1597736162029">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1597736162029" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1597739701430">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1597740465882">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1597739701430" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1597740465882" />
     <state x="764" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597739234488">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="764" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1597739234488" />
+    <state x="653" y="256" width="613" height="538" key="find.popup" timestamp="1597741279109">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="653" y="256" width="613" height="538" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1597741279109" />
   </component>
 </project>
